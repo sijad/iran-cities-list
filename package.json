@@ -1,0 +1,8 @@
+{
+    "name": "iran-cities-list",
+    "version": "0.0.1",
+    "description": "Iran Cities",
+    "repository": "git@github.com:sijad/iran-cities.git",
+    "author": "Sajjad Hashemian <wolaws@gmail.com>",
+    "license": "MIT"
+}
